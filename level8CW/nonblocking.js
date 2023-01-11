@@ -1,3 +1,4 @@
+// Eleanor Colvin Web Dev pd. 7/8 odd 
 var fs = require("fs");
 fs.readFile('input.txt', function(err, data)
 {
